@@ -1,0 +1,17 @@
+for hour hand:
+12hrs=360 deg rotation
+1hr=360/12= 30 deg rotation
+so for h hrs =30h degree +  ---
+but hour end will rotae some extra bcz of min will also rotate so
+60 min= 30 deg rotation
+1 min= 1/2 degree 
+m min=m/2 degree
+so the rotation will be = 30h+m/2 
+for min hand:
+for 60 min =360 deg rotation
+for 1 min =360/60 =6 deg rotation
+for m min=6m deg rotation
+second hand:
+60 sec=360 deg rotation
+1 sec=360/60 =6 deg rotation
+for s sec =6s
